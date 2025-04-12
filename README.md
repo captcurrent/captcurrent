@@ -2,7 +2,7 @@
   
 - 🌱 I’m currently learning home assistant
 
-- 📫 How to reach me hieshj@att.net.
+- 📫 How to reach me hirshj@att.net.
 
 <!---
 captcurrent/captcurrent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
